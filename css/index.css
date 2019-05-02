@@ -2,3 +2,18 @@
     width:100%;
     max-height:600px;
 }
+
+.contentSplit{
+    margin:20px auto 10px;
+    font-weight:700;
+}
+.contentIn{
+    max-width:1200px;
+    margin:10px auto;
+    overflow:hidden;
+}
+.contentTitle{
+}
+.indexImg{
+    width:100%;
+}
