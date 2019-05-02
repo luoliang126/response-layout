@@ -1,1 +1,17 @@
 html,body{margin:0;padding:0;}
+
+.container{
+    max-width: 1200px;
+    margin:0 auto;
+}
+.logo{
+    width:40px;
+    height:25px;
+}
+.footer{
+    background:#999999;
+}
+.footerTitle{
+    font-size:16px;
+    font-weight:700;
+}
