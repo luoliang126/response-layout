@@ -13,7 +13,13 @@
     overflow:hidden;
 }
 .contentTitle{
+    text-align: center;
 }
 .indexImg{
+    width:100%;
+}
+.companionContent{
+}
+.companionImg{
     width:100%;
 }
